@@ -4,7 +4,7 @@ title = 'Francesco Bruno personal site'
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
-publishDir = "docs"
+publishDir = ""
 themesDir = "themes"
 
 [pagination]
