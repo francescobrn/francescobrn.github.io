@@ -9,6 +9,4 @@ Currently, I work at MIROS Technology, a startup focused on optimizing and digit
 
 I am always looking for opportunities to expand my skill set and contribute to innovative solutions that push the boundaries of robotics, automation, and human-centric design.
 
-I hold a **B.Sc.** (2021) and an **M.Sc.** (2024) in **Automation and Control Engineering** from [**Politecnico di Milano**](https://www.polimi.it/), where I developed my master’s thesis under the supervision of Professor Jamie Paik at the [Reconfigurable Robotics Lab](https://www.epfl.ch/labs/rrl/).
-
-
+I hold a **B.Sc.** (2021) and an **M.Sc.** (2024) in **Automation and Control Engineering** from [**Politecnico di Milano**](https://www.polimi.it/). I completed my academic journey by developing my master’s thesis at the [**Reconfigurable Robotics Lab**](https://www.epfl.ch/labs/rrl/) of the [**EPFL**](https://www.epfl.ch/) under the supervision of Professor Jamie Paik.
