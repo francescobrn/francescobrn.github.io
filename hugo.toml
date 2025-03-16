@@ -50,7 +50,7 @@ style = "github-dark"
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 1
-  url = "https://www.linkedin.com/in/francesco-bruno/"
+  url = "https://www.linkedin.com/in/bruno-francesco/"
 
 [[params.social]]
   name = "Github"
