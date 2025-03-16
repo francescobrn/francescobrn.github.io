@@ -1,0 +1,69 @@
+baseURL = 'https://francescobrn.github.io'
+languageCode = 'en-us'
+title = 'Francesco Bruno personal site'
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+publishDir = "docs"
+themesDir = "themes"
+
+paginate = 20
+disableComments = true
+
+[services]
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Francesco Bruno"
+  info = "Automation and Control Engineer"
+  description = "Francesco Bruno personal site"
+  keywords = "blog,developer,personal"
+  avatarurl = "https://github.com/francescobrn.png"
+
+  # faviconSVG = "images/favicon.svg"
+  # favicon_32 = "images/favicon-32x32.png"
+  # favicon_16 = "images/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/francesco-bruno/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/francescobrn/"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+
+[[menu.main]]
+  name = "Resume"
+  weight = 2
+  url = "files/FrancescoBruno.pdf"
+  identifier = "cv"
