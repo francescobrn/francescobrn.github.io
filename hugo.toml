@@ -67,5 +67,5 @@ style = "github-dark"
 [[menu.main]]
   name = "Resume"
   weight = 2
-  url = "files/FrancescoBruno.pdf"
+  url = "files/FrancescoBrunoCV.pdf"
   identifier = "cv"
