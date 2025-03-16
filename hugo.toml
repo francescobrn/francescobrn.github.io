@@ -24,9 +24,9 @@ style = "github-dark"
   keywords = "blog,developer,personal"
   avatarurl = "https://github.com/francescobrn.png"
 
-  # faviconSVG = "images/favicon.svg"
-  # favicon_32 = "images/favicon-32x32.png"
-  # favicon_16 = "images/favicon-16x16.png"
+  faviconSVG = "images/favicon.png"
+  favicon_32 = "images/favicon.png"
+  favicon_16 = "images/favicon.png"
 
   since = 2025
 
